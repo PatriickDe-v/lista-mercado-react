@@ -20,4 +20,4 @@ Este é um aplicativo web simples e elegante, construído com React e estilizado
 
 ## Prints do Projeto
 
-![Imagem da lista vazia](/mercado/public/images/print-add-lista.png)
+![Imagem da lista vazia](mercado/public/images/print-add-lista.png)
